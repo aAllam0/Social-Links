@@ -1,7 +1,5 @@
 # Frontend Mentor - Social links page
 
-### Screenshot
-
 ![Soical Links Profile](./assets/images/Social-Links.png)
 
 ### Links
