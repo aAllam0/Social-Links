@@ -1,6 +1,4 @@
-### The Challenge
-
-Creating Social Links Card
+# Frontend Mentor - Social links page
 
 ### Screenshot
 
@@ -8,11 +6,11 @@ Creating Social Links Card
 
 ### Links
 
-- Solution URL: (https://aallam0.github.io/Social-Links/)
+- Live site URL: (https://aallam0.github.io/Social-Links)
 
 ### Useful resources
 
-- (https://elzero.org/) - This helped me a lot in Html and Css. I really appreciate his effort.
+- (https://elzero.org) - This helped me a lot in Html and Css. I really appreciate his effort.
 
 ### Author
 
