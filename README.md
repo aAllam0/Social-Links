@@ -8,7 +8,8 @@ Creating Social Links Card
 
 ### Links
 
-- Solution URL: (https://aallam0.github.io/Social-Links/)
+- Solution URL: (https://www.frontendmentor.io/solutions/center-card-with-css-position-vpFIOgN82E)
+- Live site URL: (https://aallam0.github.io/Social-Links/)
 
 ### Useful resources
 
