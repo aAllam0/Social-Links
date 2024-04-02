@@ -18,4 +18,3 @@ Creating Social Links Card
 ### Author
 
 - Frontend Mentor - [@aAllam0](https://www.frontendmentor.io/profile/aAllam0)
-
